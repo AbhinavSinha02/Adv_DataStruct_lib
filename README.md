@@ -42,3 +42,24 @@ Usage Scenarios:
 
 Conclusion:
 The Advanced Data Structures Library aims to provide a robust, efficient, and easy-to-use implementation of essential advanced data structures in C. By doing so, it supports educational goals, practical application in software development, and further research in the field of computer science.
+
+
+
+This project implements advanced data structures in C, including:
+- AVL Tree
+- Red-Black Tree
+- B-Tree
+
+Files
+
+- `include/` - Header files
+- `src/` - Source files
+- `test/` - Test files
+- `Makefile` - Build configuration
+
+Build and Run
+
+To build the project, run:
+```sh
+make
+
